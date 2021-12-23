@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Map It! (by Tyler)</string>
+    <string name="confirm">Confirmation</string>
+    <string name="confirmMessage">Are you sure you want to clear all text boxes?</string>
+</resources>
